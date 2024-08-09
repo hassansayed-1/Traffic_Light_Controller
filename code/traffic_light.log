@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\Final_Project\Final_Project_Embedded\code\traffic_light.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\Final_Project\Final_Project_Embedded\code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "traffic_light.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	traffic_light.c
+warning: 26	1503	Result is not defined in function: 'interrupt'	traffic_light.c
+diagnostics: 124	123	Compiled Successfully	traffic_light.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 54 (15%)  Free RAM (bytes): 298 (85%)	Used RAM (bytes): 54 (15%)  Free RAM (bytes): 298 (85%)
+hint: 0	1144	Used ROM (program words): 470 (6%)  Free ROM (program words): 7722 (94%)	Used ROM (program words): 470 (6%)  Free ROM (program words): 7722 (94%)
+diagnostics: 0	125	Project Linked Successfully	traffic_light.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'traffic_light.mcppi' completed: 265 ms	 
+diagnostics: 0	103	Finished successfully: 09 Aug 2024, 23:37:10	traffic_light.mcppi
